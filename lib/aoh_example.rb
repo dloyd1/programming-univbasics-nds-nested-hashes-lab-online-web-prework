@@ -8,7 +8,7 @@ BRUCE_G = { name:  "Bruce Green", occupation: "Fan of Mildred" }
 
 def assembled_aoh
   new_array = Array.new
-  new_array = [DON_G, JOELLE_VD, PAT_M, KATE_G, BRUCE_G]
+  new_array = [DON_G, JOELLE_VD]
   new_array
 end
 
